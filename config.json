@@ -1,12 +1,12 @@
 
 {
-    "token": "OTExNDEwODQ4MTM0NzMzOTE0.YZg_fw.-h5wuf5r1H4Ip4NF0Evf6pWEA0c",
+    "token": "Your Discord Bot token",
     "prefix": ">",
-    "mongooseConnectionString": "mongodb+srv://Southy:NXlWJSEWuCDN9fs5@michibot.1pp4q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "developers": ["830784829170778142"],
-    "supportserver": "https://discord.gg/mtx",
-    "webhookToken": "taPzE1oZ7PSYpMPKuOe2XwMFNOM1_y1kGRXfbU6bgt3vW1jQO5DI4i2msrBIYnH4CV9A",
-    "webhookId": "929103579980136478"
+    "mongooseConnectionString": "Put your MongoDB Connection string",
+    "developers": [""],
+    "supportserver": "https://discord.gg/yourserverhere",
+    "webhookToken": "Your Webhook token",
+    "webhookId": "Your webhook id"
 }
 
 
