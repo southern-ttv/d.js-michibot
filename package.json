@@ -1,0 +1,21 @@
+{
+  "name": "d.js-michibot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aoi.js": "^5.0.7",
+    "discord.js": "^13.5.0",
+    "glob": "^7.2.0",
+    "logger": "^0.0.1",
+    "mongoose": "^6.1.5",
+    "util": "^0.12.4",
+    "winston": "^3.3.3"
+  }
+}
